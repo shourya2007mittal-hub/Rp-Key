@@ -7,7 +7,7 @@ So I made a tiny (RP2350) based passkey so that I could enter passwords in a cli
 
 ## Why This
 
-It is a simple and a compile too that can be directly plugged on Laptop to enter a password also no one would see you entering the password so it's even better. 
+It is a simple and is compile too that can be directly plugged on Laptop to enter a password also no one would see you entering the password so it's even better. 
 
 ## Features
 
