@@ -1,6 +1,7 @@
 # Rp-Key
 
-<img width="742" height="507" alt="Screenshot 2026-08-09 154333" src="https://github.com/user-attachments/assets/f6656abe-0280-40d6-8d90-ae6e30866048" />
+<img width="1206" height="592" alt="Screenshot 2026-08-16 193537" src="https://github.com/user-attachments/assets/0d36e927-6f77-4b1a-a90f-c090f2a7a843" />
+
 
 
 So I made a tiny (RP2350) based passkey so that I could enter passwords in a click of a button with full privacy . (So you dont need to type your password in public also you can save upto 4 different password on it )
@@ -38,6 +39,8 @@ It is a simple and is compile too that can be directly plugged on Laptop to ente
 | **ABM8-272-T3** | 5 | $1.4705 | [JLCPCB Link](https://jlcpcb.com/partdetail/AbraconLLC-ABM8_272T3/C20625731) |
 | **USB_A_PCB_Edge_receptacle** | - | - | - |
 
+
+
 ---
 
 ## 💰 Charge Details & Manufacturing Breakdown
@@ -72,13 +75,13 @@ It is a simple and is compile too that can be directly plugged on Laptop to ente
 
 ### Schematic 
 <br>
-<img width="1220" height="727" alt="Screenshot 2026-08-09 141935" src="https://github.com/user-attachments/assets/faa25852-8a3b-4c64-9fd1-fe7359d3edc3" />
+<img width="897" height="547" alt="Screenshot 2026-08-16 184217" src="https://github.com/user-attachments/assets/ef426b57-eb0f-4c22-b0a8-4536981eb2c0" />
+
 
 <br>
 
 ### PCB Design
-
-<img width="1161" height="362" alt="Screenshot 2026-08-09 154320" src="https://github.com/user-attachments/assets/d247004e-7081-4d0b-bd08-27930f44bfd1" />
+<img width="1166" height="351" alt="Screenshot 2026-08-16 193003" src="https://github.com/user-attachments/assets/8d395339-1058-4e03-b68e-32c250cd062b" />
 
 ### 3D Design
 
