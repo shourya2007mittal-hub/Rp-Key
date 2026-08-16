@@ -31,8 +31,8 @@ It is a simple and is compile too that can be directly plugged on Laptop to ente
 | **15p** | 4 | $0.0188 | [JLCPCB Link](https://jlcpcb.com/partdetail/1900-0402CG150J500NT/C1548) |
 | **3.3u** | 2 | $1.6456 | [JLCPCB Link](https://jlcpcb.com/partdetail/KOHERelec-MDA40203R3M/C2847470) |
 | **1k** | 4 | $0.0320 | [JLCPCB Link](https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702) |
-| **10k** | 2 | $0.0132 | [JLCPCB Link](https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702) |
-| **27 ohm** | 4 | $0.0362 | [JLCPCB Link](https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702) |
+| **10k** | 2 | $0.0132 | [JLCPCB Link](https://jlcpcb.com/partdetail/26274-0402WGJ0103TCE/C25531) |
+| **27 ohm** | 4 | $0.0362 | [JLCPCB Link](https://jlcpcb.com/partdetail/25843-0402WGF270JTCE/C25100) |
 | **33** | 2 | $0.0068 | [JLCPCB Link](https://jlcpcb.com/partdetail/25848-0402WGF330JTCE/C25105) |
 | **1K** | 2 | $0.0120 | [JLCPCB Link](https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190) |
 | **SW_Push** | 10 | $3.7180 | [JLCPCB Link](https://jlcpcb.com/partdetail/Korean_HropartsElec-K5_1672SN01/C502360) |
