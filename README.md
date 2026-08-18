@@ -3,8 +3,8 @@
 <img width="1206" height="592" alt="Screenshot 2026-08-16 193537" src="https://github.com/user-attachments/assets/0d36e927-6f77-4b1a-a90f-c090f2a7a843" />
 
 
+SO I wanted to make something like YubiKey but to Enter passwords onto your online accounts or offline password ( like laptop passwords / security passwords) and the most important thing that I focused was that you could enter a password in public without anyone watching it . This add extra privacy to your workflow . So the main focus of my design was to make it small . SO I used RP2350A as micro-controller because it doesn't need an external oscillator hence it saves space on the board . Also there are 4 switches . So you could enter upto 4 different passwords as per your need . There is a boot pin also so that you could update the board as per your need .  The Design is compatible with USB-A and it plugs in perfectly onto it with all the connectors pins aligned . other then that the board has a 3.3V voltage regulator for the MCU and a LED. 
 
-So I made a tiny (RP2350) based passkey so that I could enter passwords in a click of a button with full privacy . (So you dont need to type your password in public also you can save upto 4 different password on it )
 
 ## Why This
 
