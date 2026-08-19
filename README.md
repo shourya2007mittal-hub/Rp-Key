@@ -77,16 +77,19 @@ It is a simple and is compile too that can be directly plugged on Laptop to ente
 
 ### Schematic 
 <br>
-<img width="897" height="547" alt="Screenshot 2026-08-16 184217" src="https://github.com/user-attachments/assets/ef426b57-eb0f-4c22-b0a8-4536981eb2c0" />
+
+<img width="1092" height="660" alt="Screenshot 2026-08-19 235613" src="https://github.com/user-attachments/assets/a68d1cfe-972d-4668-8a35-6af21bd0c6c2" />
 
 
 <br>
 
 ### PCB Design
-<img width="1166" height="351" alt="Screenshot 2026-08-16 193003" src="https://github.com/user-attachments/assets/8d395339-1058-4e03-b68e-32c250cd062b" />
+
+<img width="1262" height="308" alt="Screenshot 2026-08-20 003302" src="https://github.com/user-attachments/assets/5ac43941-a301-49e6-a829-e79926e3c9b4" />
 
 ### 3D Design
 
-<img width="742" height="507" alt="Screenshot 2026-08-09 154333" src="https://github.com/user-attachments/assets/aeae65be-9acf-4064-8113-64f2a22c1c7e" />
+
+<img width="1200" height="647" alt="Screenshot 2026-08-20 003324" src="https://github.com/user-attachments/assets/dad15036-16da-4ca2-a021-2e165d9f5d1b" />
 
 
